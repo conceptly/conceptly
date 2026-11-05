@@ -5,7 +5,7 @@
 I bring editorial and information design into UX: type, colour, hierarchy and structure work as one system.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-047A7A?style=for-the-badge)](https://conceptly.design)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-047A7A?style=for-the-badge)](www.linkedin.com/in/etual-fomina)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-047A7A?style=for-the-badge)](https://www.linkedin.com/in/etual-fomina)
 [![Email](https://img.shields.io/badge/Email-047A7A?style=for-the-badge)](mailto:etual.conceptly@gmail.com)
 
 Open to roles in Toronto · [Resume (PDF)](https://cdn.prod.website-files.com/679c4d2c6bc1c2287ef2f857/68182c6030beb65851be8ac2_edd0fda7c37ab773adfee246977108d4_Resume_Etual_Fomina.pdf)
@@ -48,4 +48,4 @@ I code enough to be useful: to prototype, build in Webflow and understand front-
 
 ---
 
-**Let’s make complex things clearer.** [conceptly.design](https://conceptly.design) · [LinkedIn](www.linkedin.com/in/etual-fomina) · [Resume (PDF)](https://cdn.prod.website-files.com/679c4d2c6bc1c2287ef2f857/68182c6030beb65851be8ac2_edd0fda7c37ab773adfee246977108d4_Resume_Etual_Fomina.pdf) · [etual.conceptly@gmail.com](mailto:etual.conceptly@gmail.com)
+**Let’s make complex things clearer.** [conceptly.design](https://conceptly.design) · [LinkedIn](https://www.linkedin.com/in/etual-fomina) · [Resume (PDF)](https://cdn.prod.website-files.com/679c4d2c6bc1c2287ef2f857/68182c6030beb65851be8ac2_edd0fda7c37ab773adfee246977108d4_Resume_Etual_Fomina.pdf) · [etual.conceptly@gmail.com](mailto:etual.conceptly@gmail.com)
