@@ -10,6 +10,8 @@ I bring editorial and information design into UX: type, colour, hierarchy and st
 
 Open to roles in Toronto · [Resume (PDF)](https://cdn.prod.website-files.com/679c4d2c6bc1c2287ef2f857/68182c6030beb65851be8ac2_edd0fda7c37ab773adfee246977108d4_Resume_Etual_Fomina.pdf)
 
+<br clear="right">
+
 ## Selected projects
 
 <a href="https://tracedesign.art"><img src="assets/traceWebsite.jpg" align="right" width="180" alt="Trace Design on a laptop and a phone, showing the map of Toronto"></a>
@@ -35,6 +37,8 @@ Designed and built a bilingual website with a day-to-night experience.
 <br clear="right">
 
 ---
+
+<br clear="right">
 
 ## Working notes & toolkit
 
