@@ -20,19 +20,19 @@ Open to roles in Toronto · [Resume (PDF)](https://cdn.prod.website-files.com/67
 
 Designed and built an interactive map of the city’s hidden gems.
 
-`Webflow` `Mapbox` `JavaScript` · [Code](https://github.com/conceptly/TRACE-REPO)
+`Webflow` `Mapbox` `JavaScript` · [Code](https://github.com/conceptly/trace)
 
 <br clear="right">
 
 ---
 
-<a href="https://sweetpepper.bar"><img src="assets/laptop.webp" align="right" width="180" alt="Sweet Pepper website on a laptop in a café”"></a>
+<a href="https://sweetpepper.bar"><img src="assets/laptop.webp" align="right" width="180" alt="Sweet Pepper website on a laptop in a café"></a>
 
 ### [Sweet Pepper](https://sweetpepper.bar)
 
 Designed and built a bilingual website with a day-to-night experience.
 
-`WordPress` `PHP` `CSS` · [Code](https://github.com/conceptly/SWEET-PEPPER-REPO)
+`WordPress` `PHP` `CSS` · [Code](https://github.com/conceptly/sweet-pepper-bar)
 
 <br clear="right">
 
