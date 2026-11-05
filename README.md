@@ -1,24 +1,42 @@
-# Hi, I'm Etual
+<sub>Web · Information · Design systems</sub>
 
-UX/UI designer in Toronto who code enough to be useful. I work on content-heavy products and design systems, from Figma to HTML, CSS and JavaScript.
+I’m Etual, a UX designer for products that have a lot to say.
 
-## Projects
+I bring editorial and information design into UX: type, colour, hierarchy and structure work as one system.
 
-**[Trace](https://tracedesign.art)** · [code](https://github.com/conceptly/trace)
-An interactive map of Toronto's art, architecture, typography and design landmarks. I did the field research (60+ verified places, 4 walking routes), then designed and built the site in vanilla JavaScript with Mapbox, deployed on Netlify.
+Portfolio LinkedIn Email
 
-**[Sweet Pepper Bar](https://sweetpepper.bar/en/)** · [code](https://github.com/conceptly/sweet-pepper-bar)
-A bilingual (English/Russian) website for a gastrobar, on a custom WordPress theme with SCF. Practical parts the team can edit themselves (menu, document hub), plus interactive ones: a heat slider, the Gastrobot, and colours and type that change with the time of day.
+Open to roles in Toronto · Resume (PDF)
 
-**[conceptly.design](https://conceptly.design)**
-My portfolio, with case studies, designed in Figma and built in Webflow.
+Selected projects
 
-## Tools
+<a href="https://tracedesign.art"><img src="assets/trace-design.png" align="right" width="180" alt="Trace Design on a laptop and a phone, showing the map of Toronto"></a>
 
-Figma · HTML · CSS · JavaScript · WordPress (custom themes) · Webflow · Mapbox · Git
+Trace Design
 
-I use AI tools to prototype and speed up builds; the design decisions and the final code review are mine.
+Designed and built an interactive map of the city’s hidden gems.
 
-## Elsewhere
+Webflow Mapbox JavaScript · Code
 
-[Portfolio](https://conceptly.design) · [LinkedIn](https://www.linkedin.com/in/etual-fomina)
+<br clear="right">
+
+<a href="https://sweetpepper.bar"><img src="assets/sweet-pepper.png" align="right" width="180" alt="Sweet Pepper bar interior with the red pepper sign"></a>
+
+Sweet Pepper
+
+Designed and built a bilingual website with a day-to-night experience.
+
+WordPress PHP CSS · Code
+
+<br clear="right">
+Working notes & toolkit
+
+Systems before pages. I start with information hierarchy, then build reusable components and clear handoffs. Design systems, UX/UI, editorial and information design are my core practice.
+
+Design: Figma · Adobe Creative Cloud
+Build: Webflow · HTML/CSS · JavaScript · Git
+Maps: Mapbox
+
+I code enough to be useful: to prototype, build in Webflow and understand front-end constraints, not to replace an engineering team.
+
+Let’s make complex things clearer. conceptly.design · LinkedIn · Resume (PDF) · etual.conceptly@gmail.com
