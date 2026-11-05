@@ -24,7 +24,7 @@ Designed and built an interactive map of the city’s hidden gems.
 
 ---
 
-<a href="https://sweetpepper.bar"><img src="assets/laptop.webp" align="right" width="180" alt="Sweet Pepper bar interior with the red pepper sign"></a>
+<a href="https://sweetpepper.bar"><img src="assets/laptop.webp" align="right" width="180" alt="Sweet Pepper website on a laptop in a café”"></a>
 
 ### [Sweet Pepper](https://sweetpepper.bar)
 
